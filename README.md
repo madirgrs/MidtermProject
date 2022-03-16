@@ -8,3 +8,5 @@ Hello! My name is Madi and I am a sophomore at the University of Missouri! I am 
 - level up
 - idk
 - idk again
+
+<img src="https://i.ibb.co/2j9KKJv/IMG-2044.jpg" width="180" height="290" />
