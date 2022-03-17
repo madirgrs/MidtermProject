@@ -112,3 +112,5 @@ while i < len(list):
   </div>
 </body>
 ```
+
+[***Back to Home***](https://github.com/madirgrs/MidtermProject)
