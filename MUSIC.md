@@ -12,3 +12,6 @@ Music has been one of my biggest passions for as long as I can remember. Music i
 ## Concerts
 Now that COVID conditions have started to improve, I have already been going to a lot of concerts! Concerts are something my dad and I love to go to. We've traveled to a lot of places and made a lot of great memories from the concerts we have been to.
 
+![Concert Photo](https://user-images.githubusercontent.com/101590899/158725845-82a57233-dcc3-449d-80e8-a9547a490e04.JPG)
+
+[***Back to Home***](https://github.com/madirgrs/MidtermProject)
