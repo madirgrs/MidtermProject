@@ -5,8 +5,7 @@ Hello! My name is Madi and I am a sophomore at the University of Missouri! I am 
 ### Other Sites
 - [Music](https://github.com/madirgrs/MidtermProject/blob/main/MUSIC.md)
 - [Majoring in IT](https://github.com/madirgrs/MidtermProject/blob/main/MAJOR.md)
-- level up
-- idk
-- idk again
+- [Level up](https://github.com/madirgrs/MidtermProject/blob/main/LEVELUP.md)
+- [My Sister](https://github.com/madirgrs/MidtermProject/blob/main/SISTER.md)
 
 <img src="https://i.ibb.co/2j9KKJv/IMG-2044.jpg" width="180" height="290" />
